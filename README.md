@@ -8,3 +8,7 @@ limpieza y visualización de datos. Se realizará un análisis exploratorio
 de un conjunto de datos que contiene información demográfica y económica de las provincias de
 Argentina
 
+## Archivos incluidos: 
+`Proyecto_provincias_Argentina` : Proyecto en colab.
+`provicias_datos_2022` : Datos utilizados
+
